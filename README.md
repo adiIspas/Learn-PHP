@@ -1,4 +1,4 @@
 # Learn-PHP
 
-I learn PHP with www.ucertify.com course.
-Link: http://goo.gl/nGCJzY
+I learn PHP with Ucertify course.
+Link to course: http://goo.gl/nGCJzY
