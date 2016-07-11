@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Guess the number</title>
+</head>
+<body>
+    <center><h1>Welcome!</h1></center>
+
+    <?php
+        $number = rand(1,100);
+        echo $number;
+    ?>
+
+    <form action="" method="get">
+        Name: <input type="text" name="number">
+    </form>
+
+    <?php
+        echo $_GET["number"];
+    ?>
+
+</body>
+</html>
